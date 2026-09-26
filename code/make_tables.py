@@ -2,10 +2,10 @@
 Print the result tables of the paper from the JSON files in results/.
 
     python make_tables.py            # all tables
-    python make_tables.py realdata   # Table 2 and the per-cell Tables 12-18
+    python make_tables.py realdata   # Table 2 and the per-cell Tables 13-19
     python make_tables.py boss       # Table 3
-    python make_tables.py refresh    # Table 19
-    python make_tables.py probes     # Table 20
+    python make_tables.py refresh    # Table 20
+    python make_tables.py probes     # Table 21
 
 Costed regret is recomputed as control regret + fee x number of probes, with the fees of the paper:
 c = 0.1 on the synthetic grid, 6e-4 on Open Bandit, and 0.02 on the other real-data benchmarks.
@@ -23,8 +23,8 @@ FEE = {"grid": 0.1, "openbandit": 6e-4}
 DEFAULT_FEE = 0.02
 NAMES = {"covertype": "Covertype", "pendigits": "Pendigits", "satimage": "Satimage", "fmnist": "Fashion-MNIST",
          "mnist": "MNIST", "movielens": "MovieLens", "openbandit": "Open Bandit"}
-TABLE_NO = {"covertype": 12, "pendigits": 13, "satimage": 14, "fmnist": 15, "mnist": 16, "movielens": 17,
-            "openbandit": 18}
+TABLE_NO = {"covertype": 13, "pendigits": 14, "satimage": 15, "fmnist": 16, "mnist": 17, "movielens": 18,
+            "openbandit": 19}
 SPSC = ("SPSC-Alg1", "SPSC-Adaptive")
 
 
@@ -128,7 +128,7 @@ def refresh():
     vals = {}
     for bench, method, seed, v in j["rows"]:
         vals.setdefault((bench, method), []).append(v)
-    print("\nTable 19: costed regret, mean +- SE over seeds")
+    print("\nTable 20: costed regret, mean +- SE over seeds")
     for bench in dict.fromkeys(b for b, _ in vals):
         lin = mean_se(vals[(bench, "LinUCB")])
         runs = mean_se(vals[(bench, "runs (every probe, standard radius)")])
@@ -138,7 +138,7 @@ def refresh():
 
 
 def probes():
-    """Table 20.  Probe-fed baselines against the SPSC variants.  The grid rows of LinUCB and the SPSC variants
+    """Table 21.  Probe-fed baselines against the SPSC variants.  The grid rows of LinUCB and the SPSC variants
     are in the sensing-control file; the real-data ones come from the real-data result files."""
     j = load("experiment_sensing_control.json")
     ctrl = {}
@@ -149,7 +149,7 @@ def probes():
         v = ctrl.get((ds, d, r, m)) or real.get((ds, d, r, m))
         return np.mean(v) if v else None
     order = ["grid", "covertype", "pendigits", "satimage", "mnist", "fmnist", "openbandit", "movielens"]
-    print("\nTable 20: medians over cells of the regret ratios, and the cells each SPSC variant wins")
+    print("\nTable 21: medians over cells of the regret ratios, and the cells each SPSC variant wins")
     print(f"{'Benchmark':14s} {'cells':>5} {'Probe-Lin/Lin':>14} {'SPSC/Probe-Lin':>15} {'wins':>5} "
           f"{'Adp/Probe-SW':>13} {'wins':>5}")
     tot = dict(cells=0, w1=0, w2=0, either=0)
