@@ -1,5 +1,6 @@
 """
-Figure 2 of the paper, drawn from the values of Table 11 (synthetic grid, 40 cells, with d in
+High-resolution, paper-quality Figure 1 using the *reproducible* values
+from `appendix_tables.tex` / `tab:app-synthetic` (40 cells, with d in
 {5,10,20,30,45,60,80,100}, r in {1,3,5,10,15,20}, r<d).
 
 These values are produced by `experiment_synthetic_extended.py`
@@ -65,7 +66,7 @@ plt.rcParams.update({
 
 
 # -------------------------------------------------------------------------
-# Data: the SPSC, LinUCB and Oracle columns of Table 11.
+# Data — extracted directly from appendix_tables.tex `tab:app-synthetic`.
 # Format: (d, r): (SPSC, LinUCB, Oracle)
 # Reproduced by `experiment_synthetic_extended.py` (K=10, T=5000,
 # 40 actions, probe period 50, 10 seeds, sigma_eps=0.3, spec_rad=0.99,
@@ -175,14 +176,14 @@ cb.ax.tick_params(labelsize=12)
 
 ax.set_xlabel(r"Ambient dimension $d$")
 ax.set_ylabel(r"Latent rank $r$")
-# legend inside, in a thin band above the r = 20 row, so it hides no cell
+# legend inside, in a band above the r = 20 row, so it hides no cell
 leg = ax.legend(loc="upper left", ncol=1, framealpha=1.0, edgecolor="black")
 leg.get_frame().set_linewidth(1.0)
 for t in leg.get_texts():                      # a thin outline prints the small legend text darker
     t.set_path_effects([pe.withStroke(linewidth=0.28, foreground="black")])
 ax.set_title("(a)", loc="left", fontweight="bold", fontsize=18, pad=8)
 ax.set_xlim(3, 102)
-ax.set_ylim(0.5, 26.0)
+ax.set_ylim(0.5, 29.5)                          # room for the legend above the r = 20 row
 ax.set_yticks([2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20])
 ax.grid(False)
 
