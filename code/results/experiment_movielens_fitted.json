@@ -1,0 +1,9748 @@
+{
+ "rows": [
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 1512.3741857240664,
+   "costed": 1512.3741857240664,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 1377.8910886853457,
+   "costed": 1377.8910886853457,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 1366.7500648062414,
+   "costed": 1366.7500648062414,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 1448.461898704989,
+   "costed": 1448.461898704989,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 1337.542664989013,
+   "costed": 1337.542664989013,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 1433.9291876048105,
+   "costed": 1433.9291876048105,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 1477.6143785808858,
+   "costed": 1477.6143785808858,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 1584.3573363325224,
+   "costed": 1584.3573363325224,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 1387.1895753621834,
+   "costed": 1387.1895753621834,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 1419.4128640110096,
+   "costed": 1419.4128640110096,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3122.9960993253253,
+   "costed": 3132.996099325324,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3308.0855141446477,
+   "costed": 3318.085514144647,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3307.4592171997547,
+   "costed": 3317.4592171997524,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3375.368947564347,
+   "costed": 3385.368947564348,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3316.399452558645,
+   "costed": 3326.3994525586454,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3338.542812619515,
+   "costed": 3348.5428126195156,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3178.849518936726,
+   "costed": 3188.849518936725,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3184.413174466446,
+   "costed": 3194.413174466446,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3192.9295020911622,
+   "costed": 3202.9295020911627,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3332.471055097321,
+   "costed": 3342.4710550973195,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 2436.7237607137145,
+   "costed": 2447.263760713715,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3296.8456644759403,
+   "costed": 3309.045664475939,
+   "probes": 610
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 2727.107840561885,
+   "costed": 2738.7478405618854,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 2575.867351985113,
+   "costed": 2587.507351985111,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 2595.7553850114296,
+   "costed": 2607.3953850114267,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 2786.3354449315702,
+   "costed": 2797.9954449315683,
+   "probes": 583
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 2941.956837816845,
+   "costed": 2953.596837816844,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 2677.636261285949,
+   "costed": 2689.276261285951,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 2961.7057716172676,
+   "costed": 2973.3457716172684,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3184.8808895089937,
+   "costed": 3195.980889508995,
+   "probes": 555
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 5265.896511342811,
+   "costed": 5265.896511342811,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 4783.876756736677,
+   "costed": 4783.876756736677,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 5269.120960524064,
+   "costed": 5269.120960524064,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 5588.026121076113,
+   "costed": 5588.026121076113,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 4420.950822779867,
+   "costed": 4420.950822779867,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 4384.84170913014,
+   "costed": 4384.84170913014,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 4869.627332506818,
+   "costed": 4869.627332506818,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 6046.700358118359,
+   "costed": 6046.700358118359,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 4793.91816034642,
+   "costed": 4793.91816034642,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 5563.065257907292,
+   "costed": 5563.065257907292,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 4809.592253733801,
+   "costed": 4809.592253733801,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 4575.982747254753,
+   "costed": 4575.982747254753,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 5463.995620776649,
+   "costed": 5463.995620776649,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 4262.475648148598,
+   "costed": 4262.475648148598,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 5247.2025773297455,
+   "costed": 5247.2025773297455,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 5242.125269915718,
+   "costed": 5242.125269915718,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 5414.211433337168,
+   "costed": 5414.211433337168,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3998.127931290059,
+   "costed": 3998.127931290059,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 5152.778232684283,
+   "costed": 5152.778232684283,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 5139.917778475853,
+   "costed": 5139.917778475853,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 5593.202962539401,
+   "costed": 5593.202962539401,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 5529.044284354961,
+   "costed": 5529.044284354961,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 5831.683903929479,
+   "costed": 5831.683903929479,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 5201.498082503492,
+   "costed": 5201.498082503492,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 5263.057766461538,
+   "costed": 5263.057766461538,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 5680.656492270306,
+   "costed": 5680.656492270306,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 5461.9631462192765,
+   "costed": 5461.9631462192765,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 5530.450486308772,
+   "costed": 5530.450486308772,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 5825.147299427656,
+   "costed": 5825.147299427656,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 5356.910794640287,
+   "costed": 5356.910794640287,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3669.6696173907967,
+   "costed": 3669.6696173907967,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3688.5088034774335,
+   "costed": 3688.5088034774335,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3751.848772622412,
+   "costed": 3751.848772622412,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3744.763591236683,
+   "costed": 3744.763591236683,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3692.024735781821,
+   "costed": 3692.024735781821,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3703.7917485481257,
+   "costed": 3703.7917485481257,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3767.3787106079644,
+   "costed": 3767.3787106079644,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3660.8179401986463,
+   "costed": 3660.8179401986463,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3863.000037347764,
+   "costed": 3863.000037347764,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3765.7727986046007,
+   "costed": 3765.7727986046007,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3741.7247141865814,
+   "costed": 3741.7247141865814,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3745.524796533558,
+   "costed": 3745.524796533558,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3840.98327306596,
+   "costed": 3840.98327306596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3780.742379331405,
+   "costed": 3780.742379331405,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3741.5458448937807,
+   "costed": 3741.5458448937807,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3754.0771349145343,
+   "costed": 3754.0771349145343,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3826.438931411934,
+   "costed": 3826.438931411934,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3724.115434992617,
+   "costed": 3724.115434992617,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3925.0972874437743,
+   "costed": 3925.0972874437743,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3837.886432770168,
+   "costed": 3837.886432770168,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3648.817077227013,
+   "costed": 3648.817077227013,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3599.7192951337793,
+   "costed": 3599.7192951337793,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3707.1558024338274,
+   "costed": 3707.1558024338274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3686.5241040942274,
+   "costed": 3686.5241040942274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3601.2357797430177,
+   "costed": 3601.2357797430177,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3616.232840457603,
+   "costed": 3616.232840457603,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3711.002070700785,
+   "costed": 3711.002070700785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3580.9829137785,
+   "costed": 3580.9829137785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3791.2955979371495,
+   "costed": 3791.2955979371495,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3695.2477632744058,
+   "costed": 3695.2477632744058,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3666.040466809997,
+   "costed": 3666.040466809997,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3664.631423341185,
+   "costed": 3664.631423341185,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3720.3756199293534,
+   "costed": 3720.3756199293534,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3680.2785309683045,
+   "costed": 3680.2785309683045,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3641.0842812820247,
+   "costed": 3641.0842812820247,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3683.5867253767437,
+   "costed": 3683.5867253767437,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3703.5127255120724,
+   "costed": 3703.5127255120724,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3653.0985393180135,
+   "costed": 3653.0985393180135,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3854.9029208948705,
+   "costed": 3854.9029208948705,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3682.1434990294374,
+   "costed": 3682.1434990294374,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3748.616302304901,
+   "costed": 3748.616302304901,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3772.65759220871,
+   "costed": 3772.65759220871,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 3856.882414566953,
+   "costed": 3856.882414566953,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 3821.392519249009,
+   "costed": 3821.392519249009,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3782.7628594583384,
+   "costed": 3782.7628594583384,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 3817.3517504984366,
+   "costed": 3817.3517504984366,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 3822.04109511803,
+   "costed": 3822.04109511803,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3755.865430803771,
+   "costed": 3755.865430803771,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 3970.283981797658,
+   "costed": 3970.283981797658,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 3920.8771452459864,
+   "costed": 3920.8771452459864,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 0,
+   "control": 3977.664272091899,
+   "costed": 3977.664272091899,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 1,
+   "control": 3956.3990055778777,
+   "costed": 3956.3990055778777,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 2,
+   "control": 4051.704410139905,
+   "costed": 4051.704410139905,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 3,
+   "control": 4017.5618328472024,
+   "costed": 4017.5618328472024,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 4,
+   "control": 3996.1371962361995,
+   "costed": 3996.1371962361995,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 5,
+   "control": 4010.4358182784204,
+   "costed": 4010.4358182784204,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 6,
+   "control": 4041.6008206599504,
+   "costed": 4041.6008206599504,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 7,
+   "control": 3916.4324252102115,
+   "costed": 3916.4324252102115,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 8,
+   "control": 4150.798451951307,
+   "costed": 4150.798451951307,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 5,
+   "seed": 9,
+   "control": 4029.7121057701884,
+   "costed": 4029.7121057701884,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 2187.357737908704,
+   "costed": 2187.357737908704,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 2133.117517627918,
+   "costed": 2133.117517627918,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 2400.016836988312,
+   "costed": 2400.016836988312,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 2320.6677278797515,
+   "costed": 2320.6677278797515,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 2117.740161128856,
+   "costed": 2117.740161128856,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 2146.6666910848317,
+   "costed": 2146.6666910848317,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 2234.745865651905,
+   "costed": 2234.745865651905,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 2209.4597255450244,
+   "costed": 2209.4597255450244,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 2249.4013068587806,
+   "costed": 2249.4013068587806,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 2242.7291634844055,
+   "costed": 2242.7291634844055,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3216.1860952061825,
+   "costed": 3226.186095206181,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3666.611965026046,
+   "costed": 3676.611965026048,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3533.3748048034176,
+   "costed": 3543.374804803415,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3364.600674592196,
+   "costed": 3374.6006745921977,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3450.2553415390244,
+   "costed": 3460.2553415390266,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3523.731369620878,
+   "costed": 3533.7313696208785,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3341.090698266425,
+   "costed": 3351.0906982664264,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3460.9523880183347,
+   "costed": 3470.9523880183347,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3428.86934415717,
+   "costed": 3438.8693441571704,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3491.653727348203,
+   "costed": 3501.6537273482027,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3024.44038311866,
+   "costed": 3036.0803831186613,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3077.2662308096797,
+   "costed": 3087.8062308096787,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 2687.2267313143807,
+   "costed": 2698.3267313143806,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 2718.456627485509,
+   "costed": 2729.5566274855078,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3249.1293659758826,
+   "costed": 3260.76936597588,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3217.805014230133,
+   "costed": 3228.905014230132,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3059.4071379084694,
+   "costed": 3070.4871379084716,
+   "probes": 554
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3152.7105435014287,
+   "costed": 3164.3505435014267,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3157.062030343967,
+   "costed": 3168.722030343966,
+   "probes": 583
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3527.9767260165627,
+   "costed": 3539.076726016564,
+   "probes": 555
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 5121.135986983992,
+   "costed": 5121.135986983992,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 5064.943606993239,
+   "costed": 5064.943606993239,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 4737.9568542276065,
+   "costed": 4737.9568542276065,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 5585.383296599014,
+   "costed": 5585.383296599014,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 4773.367589370869,
+   "costed": 4773.367589370869,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 4951.594775127528,
+   "costed": 4951.594775127528,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 5387.565261873545,
+   "costed": 5387.565261873545,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 4875.578487125689,
+   "costed": 4875.578487125689,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 5494.193227983883,
+   "costed": 5494.193227983883,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 5127.119193172539,
+   "costed": 5127.119193172539,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 4694.139952036326,
+   "costed": 4694.139952036326,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 4067.0796082847055,
+   "costed": 4067.0796082847055,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 5046.526040157167,
+   "costed": 5046.526040157167,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 4404.226646978667,
+   "costed": 4404.226646978667,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 4839.325900661558,
+   "costed": 4839.325900661558,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 4799.571091514927,
+   "costed": 4799.571091514927,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 5227.021154632197,
+   "costed": 5227.021154632197,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 5256.086803040234,
+   "costed": 5256.086803040234,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 5337.643524451122,
+   "costed": 5337.643524451122,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 5230.331735630885,
+   "costed": 5230.331735630885,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 5230.485462452988,
+   "costed": 5230.485462452988,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 5168.3766814619285,
+   "costed": 5168.3766814619285,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 5451.70595684418,
+   "costed": 5451.70595684418,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 5301.317025146876,
+   "costed": 5301.317025146876,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 4890.642628125774,
+   "costed": 4890.642628125774,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 5216.195429063592,
+   "costed": 5216.195429063592,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 5408.486897916231,
+   "costed": 5408.486897916231,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 5472.658365498441,
+   "costed": 5472.658365498441,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 5380.908906772764,
+   "costed": 5380.908906772764,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 5281.250786832577,
+   "costed": 5281.250786832577,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3669.6696173907967,
+   "costed": 3669.6696173907967,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3688.5088034774335,
+   "costed": 3688.5088034774335,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3751.848772622412,
+   "costed": 3751.848772622412,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3744.763591236683,
+   "costed": 3744.763591236683,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3692.024735781821,
+   "costed": 3692.024735781821,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3703.7917485481257,
+   "costed": 3703.7917485481257,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3767.3787106079644,
+   "costed": 3767.3787106079644,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3660.8179401986463,
+   "costed": 3660.8179401986463,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3863.000037347764,
+   "costed": 3863.000037347764,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3765.7727986046007,
+   "costed": 3765.7727986046007,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3741.7247141865814,
+   "costed": 3741.7247141865814,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3745.524796533558,
+   "costed": 3745.524796533558,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3840.98327306596,
+   "costed": 3840.98327306596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3780.742379331405,
+   "costed": 3780.742379331405,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3741.5458448937807,
+   "costed": 3741.5458448937807,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3754.0771349145343,
+   "costed": 3754.0771349145343,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3826.438931411934,
+   "costed": 3826.438931411934,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3724.115434992617,
+   "costed": 3724.115434992617,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3925.0972874437743,
+   "costed": 3925.0972874437743,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3837.886432770168,
+   "costed": 3837.886432770168,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3648.817077227013,
+   "costed": 3648.817077227013,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3599.7192951337793,
+   "costed": 3599.7192951337793,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3707.1558024338274,
+   "costed": 3707.1558024338274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3686.5241040942274,
+   "costed": 3686.5241040942274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3601.2357797430177,
+   "costed": 3601.2357797430177,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3616.232840457603,
+   "costed": 3616.232840457603,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3711.002070700785,
+   "costed": 3711.002070700785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3580.9829137785,
+   "costed": 3580.9829137785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3791.2955979371495,
+   "costed": 3791.2955979371495,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3695.2477632744058,
+   "costed": 3695.2477632744058,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3666.040466809997,
+   "costed": 3666.040466809997,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3664.631423341185,
+   "costed": 3664.631423341185,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3720.3756199293534,
+   "costed": 3720.3756199293534,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3680.2785309683045,
+   "costed": 3680.2785309683045,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3641.0842812820247,
+   "costed": 3641.0842812820247,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3683.5867253767437,
+   "costed": 3683.5867253767437,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3703.5127255120724,
+   "costed": 3703.5127255120724,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3653.0985393180135,
+   "costed": 3653.0985393180135,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3854.9029208948705,
+   "costed": 3854.9029208948705,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3682.1434990294374,
+   "costed": 3682.1434990294374,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3748.616302304901,
+   "costed": 3748.616302304901,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3772.65759220871,
+   "costed": 3772.65759220871,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 3856.882414566953,
+   "costed": 3856.882414566953,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 3821.392519249009,
+   "costed": 3821.392519249009,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3782.7628594583384,
+   "costed": 3782.7628594583384,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 3817.3517504984366,
+   "costed": 3817.3517504984366,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 3822.04109511803,
+   "costed": 3822.04109511803,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3755.865430803771,
+   "costed": 3755.865430803771,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 3970.283981797658,
+   "costed": 3970.283981797658,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 3920.8771452459864,
+   "costed": 3920.8771452459864,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 0,
+   "control": 3977.664272091899,
+   "costed": 3977.664272091899,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 1,
+   "control": 3956.3990055778777,
+   "costed": 3956.3990055778777,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 2,
+   "control": 4051.704410139905,
+   "costed": 4051.704410139905,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 3,
+   "control": 4017.5618328472024,
+   "costed": 4017.5618328472024,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 4,
+   "control": 3996.1371962361995,
+   "costed": 3996.1371962361995,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 5,
+   "control": 4010.4358182784204,
+   "costed": 4010.4358182784204,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 6,
+   "control": 4041.6008206599504,
+   "costed": 4041.6008206599504,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 7,
+   "control": 3916.4324252102115,
+   "costed": 3916.4324252102115,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 8,
+   "control": 4150.798451951307,
+   "costed": 4150.798451951307,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 10,
+   "seed": 9,
+   "control": 4029.7121057701884,
+   "costed": 4029.7121057701884,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 2858.6812527177867,
+   "costed": 2858.6812527177867,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 2831.816262385659,
+   "costed": 2831.816262385659,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 2758.630381054678,
+   "costed": 2758.630381054678,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 2848.5466045907865,
+   "costed": 2848.5466045907865,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 2757.8857382508068,
+   "costed": 2757.8857382508068,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 2837.7844877424372,
+   "costed": 2837.7844877424372,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 2853.2097896648975,
+   "costed": 2853.2097896648975,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 2790.525760169275,
+   "costed": 2790.525760169275,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 2798.712715771021,
+   "costed": 2798.712715771021,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 2904.3367904155507,
+   "costed": 2904.3367904155507,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3456.3509128794817,
+   "costed": 3466.350912879479,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3802.0770153727294,
+   "costed": 3812.0770153727312,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3630.924052696424,
+   "costed": 3640.924052696423,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3629.8364690581975,
+   "costed": 3639.8364690582,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3589.4039750910556,
+   "costed": 3599.4039750910574,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3695.7668268287575,
+   "costed": 3705.766826828758,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3535.2548690635685,
+   "costed": 3545.2548690635695,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3710.5103608620275,
+   "costed": 3720.510360862027,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3715.7562098867897,
+   "costed": 3725.7562098867893,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3790.6824277902465,
+   "costed": 3800.682427790245,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3290.0521079896016,
+   "costed": 3301.692107989602,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3466.3800191905243,
+   "costed": 3477.480019190522,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3326.081362443885,
+   "costed": 3337.181362443885,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3426.107618154633,
+   "costed": 3437.2076181546336,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3258.470770351505,
+   "costed": 3270.1107703515054,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3426.9144324827166,
+   "costed": 3439.1144324827173,
+   "probes": 610
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3444.044506243478,
+   "costed": 3455.684506243478,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3275.389711137311,
+   "costed": 3288.1097111373124,
+   "probes": 636
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3451.3817478976603,
+   "costed": 3462.481747897657,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3685.6371977821786,
+   "costed": 3697.2771977821812,
+   "probes": 582
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 4899.466808988229,
+   "costed": 4899.466808988229,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 4723.049603194857,
+   "costed": 4723.049603194857,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 4865.471452113001,
+   "costed": 4865.471452113001,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 5186.783407235376,
+   "costed": 5186.783407235376,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 4901.638130156365,
+   "costed": 4901.638130156365,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 4512.003926775139,
+   "costed": 4512.003926775139,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 4600.786655735775,
+   "costed": 4600.786655735775,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 4735.690054339636,
+   "costed": 4735.690054339636,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 5013.933435369015,
+   "costed": 5013.933435369015,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 4854.531922377471,
+   "costed": 4854.531922377471,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 5256.703967837685,
+   "costed": 5256.703967837685,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3987.780228436255,
+   "costed": 3987.780228436255,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 4832.109391601115,
+   "costed": 4832.109391601115,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 4957.753800371187,
+   "costed": 4957.753800371187,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 4288.55138378912,
+   "costed": 4288.55138378912,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 4810.646532592788,
+   "costed": 4810.646532592788,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 5126.433824766288,
+   "costed": 5126.433824766288,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 4817.440877309809,
+   "costed": 4817.440877309809,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 4781.734873173036,
+   "costed": 4781.734873173036,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 4699.896967485857,
+   "costed": 4699.896967485857,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 4766.475535579557,
+   "costed": 4766.475535579557,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 4643.7526518971235,
+   "costed": 4643.7526518971235,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 4734.020452507947,
+   "costed": 4734.020452507947,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 4998.915143205356,
+   "costed": 4998.915143205356,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 4796.37206895597,
+   "costed": 4796.37206895597,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 4672.953507430808,
+   "costed": 4672.953507430808,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 4890.800725390057,
+   "costed": 4890.800725390057,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 4822.401685455454,
+   "costed": 4822.401685455454,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 5062.664226761637,
+   "costed": 5062.664226761637,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 4772.1738473502,
+   "costed": 4772.1738473502,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3669.6696173907967,
+   "costed": 3669.6696173907967,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3688.5088034774335,
+   "costed": 3688.5088034774335,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3751.848772622412,
+   "costed": 3751.848772622412,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3744.763591236683,
+   "costed": 3744.763591236683,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3692.024735781821,
+   "costed": 3692.024735781821,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3703.7917485481257,
+   "costed": 3703.7917485481257,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3767.3787106079644,
+   "costed": 3767.3787106079644,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3660.8179401986463,
+   "costed": 3660.8179401986463,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3863.000037347764,
+   "costed": 3863.000037347764,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3765.7727986046007,
+   "costed": 3765.7727986046007,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3741.7247141865814,
+   "costed": 3741.7247141865814,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3745.524796533558,
+   "costed": 3745.524796533558,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3840.98327306596,
+   "costed": 3840.98327306596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3780.742379331405,
+   "costed": 3780.742379331405,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3741.5458448937807,
+   "costed": 3741.5458448937807,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3754.0771349145343,
+   "costed": 3754.0771349145343,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3826.438931411934,
+   "costed": 3826.438931411934,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3724.115434992617,
+   "costed": 3724.115434992617,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3925.0972874437743,
+   "costed": 3925.0972874437743,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3837.886432770168,
+   "costed": 3837.886432770168,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3648.817077227013,
+   "costed": 3648.817077227013,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3599.7192951337793,
+   "costed": 3599.7192951337793,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3707.1558024338274,
+   "costed": 3707.1558024338274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3686.5241040942274,
+   "costed": 3686.5241040942274,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3601.2357797430177,
+   "costed": 3601.2357797430177,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3616.232840457603,
+   "costed": 3616.232840457603,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3711.002070700785,
+   "costed": 3711.002070700785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3580.9829137785,
+   "costed": 3580.9829137785,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3791.2955979371495,
+   "costed": 3791.2955979371495,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3695.2477632744058,
+   "costed": 3695.2477632744058,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3666.040466809997,
+   "costed": 3666.040466809997,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3664.631423341185,
+   "costed": 3664.631423341185,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3720.3756199293534,
+   "costed": 3720.3756199293534,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3680.2785309683045,
+   "costed": 3680.2785309683045,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3641.0842812820247,
+   "costed": 3641.0842812820247,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3683.5867253767437,
+   "costed": 3683.5867253767437,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3703.5127255120724,
+   "costed": 3703.5127255120724,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3653.0985393180135,
+   "costed": 3653.0985393180135,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3854.9029208948705,
+   "costed": 3854.9029208948705,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3682.1434990294374,
+   "costed": 3682.1434990294374,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3748.616302304901,
+   "costed": 3748.616302304901,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3772.65759220871,
+   "costed": 3772.65759220871,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 3856.882414566953,
+   "costed": 3856.882414566953,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 3821.392519249009,
+   "costed": 3821.392519249009,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3782.7628594583384,
+   "costed": 3782.7628594583384,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 3817.3517504984366,
+   "costed": 3817.3517504984366,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 3822.04109511803,
+   "costed": 3822.04109511803,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3755.865430803771,
+   "costed": 3755.865430803771,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 3970.283981797658,
+   "costed": 3970.283981797658,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 3920.8771452459864,
+   "costed": 3920.8771452459864,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 0,
+   "control": 3977.664272091899,
+   "costed": 3977.664272091899,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 1,
+   "control": 3956.3990055778777,
+   "costed": 3956.3990055778777,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 2,
+   "control": 4051.704410139905,
+   "costed": 4051.704410139905,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 3,
+   "control": 4017.5618328472024,
+   "costed": 4017.5618328472024,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 4,
+   "control": 3996.1371962361995,
+   "costed": 3996.1371962361995,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 5,
+   "control": 4010.4358182784204,
+   "costed": 4010.4358182784204,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 6,
+   "control": 4041.6008206599504,
+   "costed": 4041.6008206599504,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 7,
+   "control": 3916.4324252102115,
+   "costed": 3916.4324252102115,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 8,
+   "control": 4150.798451951307,
+   "costed": 4150.798451951307,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 55,
+   "r": 20,
+   "seed": 9,
+   "control": 4029.7121057701884,
+   "costed": 4029.7121057701884,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 1548.045723190609,
+   "costed": 1548.045723190609,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 1382.3361037220975,
+   "costed": 1382.3361037220975,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 1309.4842713629525,
+   "costed": 1309.4842713629525,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 1567.7492164310356,
+   "costed": 1567.7492164310356,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 1307.6658914543834,
+   "costed": 1307.6658914543834,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 1401.9145792887607,
+   "costed": 1401.9145792887607,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 1281.8412239383495,
+   "costed": 1281.8412239383495,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 1442.8113452549774,
+   "costed": 1442.8113452549774,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 1486.6414304344569,
+   "costed": 1486.6414304344569,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 1476.665350176796,
+   "costed": 1476.665350176796,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 3806.9535792169995,
+   "costed": 3816.9535792169995,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 3310.372766073547,
+   "costed": 3320.372766073547,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 3776.5001899469066,
+   "costed": 3786.5001899469084,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 3869.9092091588727,
+   "costed": 3879.9092091588714,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 3624.297900778509,
+   "costed": 3634.297900778506,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 3613.9564249451378,
+   "costed": 3623.9564249451364,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 3570.3911863202347,
+   "costed": 3580.391186320236,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 3733.4635454398917,
+   "costed": 3743.4635454398917,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 3402.5692825714327,
+   "costed": 3412.5692825714323,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 3841.651872581494,
+   "costed": 3851.651872581494,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 3039.7033430585193,
+   "costed": 3050.8033430585206,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 2843.724148991422,
+   "costed": 2854.2641489914213,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 3374.7001615561867,
+   "costed": 3387.4401615561887,
+   "probes": 637
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 3467.567958059242,
+   "costed": 3478.6479580592427,
+   "probes": 554
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 3708.4476844929186,
+   "costed": 3719.5476844929194,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 3432.2580349032946,
+   "costed": 3443.898034903294,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 3400.5217583651406,
+   "costed": 3411.6217583651387,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 3446.9455056512543,
+   "costed": 3460.245505651254,
+   "probes": 665
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 2851.561657485292,
+   "costed": 2862.101657485291,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 2924.2513764657106,
+   "costed": 2935.351376465711,
+   "probes": 555
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4922.689349251174,
+   "costed": 4922.689349251174,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 6178.910663297243,
+   "costed": 6178.910663297243,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 5871.5837366876185,
+   "costed": 5871.5837366876185,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 5790.006004213335,
+   "costed": 5790.006004213335,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 5254.9336695600905,
+   "costed": 5254.9336695600905,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 5764.219737086618,
+   "costed": 5764.219737086618,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 5471.992827317781,
+   "costed": 5471.992827317781,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 5722.0952094383865,
+   "costed": 5722.0952094383865,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 6389.589891680589,
+   "costed": 6389.589891680589,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 5938.216802950671,
+   "costed": 5938.216802950671,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 6323.0518025090805,
+   "costed": 6323.0518025090805,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 5371.251034490949,
+   "costed": 5371.251034490949,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 5797.56547705898,
+   "costed": 5797.56547705898,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 5539.718557072386,
+   "costed": 5539.718557072386,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 5944.9588030195955,
+   "costed": 5944.9588030195955,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 5851.244133702511,
+   "costed": 5851.244133702511,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 6054.1674365548015,
+   "costed": 6054.1674365548015,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 5479.296342127865,
+   "costed": 5479.296342127865,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 5465.502251289399,
+   "costed": 5465.502251289399,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 5685.442487753523,
+   "costed": 5685.442487753523,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 5774.94064313581,
+   "costed": 5774.94064313581,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 5728.230470034275,
+   "costed": 5728.230470034275,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 5581.472579608905,
+   "costed": 5581.472579608905,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 5652.103788846512,
+   "costed": 5652.103788846512,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 5946.298347614168,
+   "costed": 5946.298347614168,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 5956.485437332979,
+   "costed": 5956.485437332979,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 5826.4081094760295,
+   "costed": 5826.4081094760295,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 5795.50442853481,
+   "costed": 5795.50442853481,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 5912.678152411497,
+   "costed": 5912.678152411497,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 5800.817452260623,
+   "costed": 5800.817452260623,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4217.076509825868,
+   "costed": 4217.076509825868,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4227.146917341033,
+   "costed": 4227.146917341033,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4260.026089156109,
+   "costed": 4260.026089156109,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4248.87067611042,
+   "costed": 4248.87067611042,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4257.767404750812,
+   "costed": 4257.767404750812,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4219.144685728467,
+   "costed": 4219.144685728467,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4316.299893666304,
+   "costed": 4316.299893666304,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4183.063130414276,
+   "costed": 4183.063130414276,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4344.407348381717,
+   "costed": 4344.407348381717,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4282.592705293008,
+   "costed": 4282.592705293008,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4311.741604974742,
+   "costed": 4311.741604974742,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4302.924765323825,
+   "costed": 4302.924765323825,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4296.487464840012,
+   "costed": 4296.487464840012,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4290.291201499028,
+   "costed": 4290.291201499028,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4337.519160920038,
+   "costed": 4337.519160920038,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4255.083683087999,
+   "costed": 4255.083683087999,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4361.765073173157,
+   "costed": 4361.765073173157,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4200.048739039141,
+   "costed": 4200.048739039141,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4432.751126432361,
+   "costed": 4432.751126432361,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4330.837094920469,
+   "costed": 4330.837094920469,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4246.7471233043225,
+   "costed": 4246.7471233043225,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4208.837505994816,
+   "costed": 4208.837505994816,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4221.079642799907,
+   "costed": 4221.079642799907,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4231.209768962744,
+   "costed": 4231.209768962744,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4228.738363316918,
+   "costed": 4228.738363316918,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4207.401581627664,
+   "costed": 4207.401581627664,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4303.985166519162,
+   "costed": 4303.985166519162,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4118.259993935424,
+   "costed": 4118.259993935424,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4299.76848613803,
+   "costed": 4299.76848613803,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4229.897564694861,
+   "costed": 4229.897564694861,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4241.047893286803,
+   "costed": 4241.047893286803,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4216.919758992441,
+   "costed": 4216.919758992441,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4258.36381287358,
+   "costed": 4258.36381287358,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4239.993475244901,
+   "costed": 4239.993475244901,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4264.638779157343,
+   "costed": 4264.638779157343,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4235.138834170679,
+   "costed": 4235.138834170679,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4320.554186376386,
+   "costed": 4320.554186376386,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4166.205519664878,
+   "costed": 4166.205519664878,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4335.290418265476,
+   "costed": 4335.290418265476,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4260.31937280416,
+   "costed": 4260.31937280416,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4154.675613103537,
+   "costed": 4154.675613103537,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4204.0162642540035,
+   "costed": 4204.0162642540035,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4203.727621267924,
+   "costed": 4203.727621267924,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4244.512125213468,
+   "costed": 4244.512125213468,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4211.361772412963,
+   "costed": 4211.361772412963,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4170.215030225138,
+   "costed": 4170.215030225138,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4260.967215084005,
+   "costed": 4260.967215084005,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4086.457531077,
+   "costed": 4086.457531077,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4302.183807591214,
+   "costed": 4302.183807591214,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4193.867887104623,
+   "costed": 4193.867887104623,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 0,
+   "control": 4349.999793783399,
+   "costed": 4349.999793783399,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 1,
+   "control": 4288.60772634885,
+   "costed": 4288.60772634885,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 2,
+   "control": 4331.002761531752,
+   "costed": 4331.002761531752,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 3,
+   "control": 4343.581048165567,
+   "costed": 4343.581048165567,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 4,
+   "control": 4314.86723275687,
+   "costed": 4314.86723275687,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 5,
+   "control": 4326.269381742914,
+   "costed": 4326.269381742914,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 6,
+   "control": 4392.755254336126,
+   "costed": 4392.755254336126,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 7,
+   "control": 4180.663386297754,
+   "costed": 4180.663386297754,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 8,
+   "control": 4420.3453522050395,
+   "costed": 4420.3453522050395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 5,
+   "seed": 9,
+   "control": 4327.880363739487,
+   "costed": 4327.880363739487,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 2572.3830331508593,
+   "costed": 2572.3830331508593,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 2375.4196845729734,
+   "costed": 2375.4196845729734,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 2245.886446250976,
+   "costed": 2245.886446250976,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 2602.0090150174146,
+   "costed": 2602.0090150174146,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 2258.651677760708,
+   "costed": 2258.651677760708,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 2314.0654026497623,
+   "costed": 2314.0654026497623,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 2430.251045503823,
+   "costed": 2430.251045503823,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 2446.879458499781,
+   "costed": 2446.879458499781,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 2425.542214202289,
+   "costed": 2425.542214202289,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 2343.665470832651,
+   "costed": 2343.665470832651,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 3947.528344632817,
+   "costed": 3957.528344632819,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 3671.2221667312524,
+   "costed": 3681.2221667312538,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 3937.3550226277607,
+   "costed": 3947.355022627763,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 3907.53426074391,
+   "costed": 3917.5342607439097,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 3694.023618509641,
+   "costed": 3704.0236185096405,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 3823.0296620917447,
+   "costed": 3833.0296620917447,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 3877.2854464378534,
+   "costed": 3887.285446437851,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 3880.254384634398,
+   "costed": 3890.2543846343983,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 3564.097347549133,
+   "costed": 3574.097347549133,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4021.510436758166,
+   "costed": 4031.510436758167,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 3199.9839178595475,
+   "costed": 3211.0839178595484,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 3208.643887701287,
+   "costed": 3219.7438877012883,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 3516.3088805783514,
+   "costed": 3527.9488805783517,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 2979.2385801983755,
+   "costed": 2989.778580198375,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 3479.822325881364,
+   "costed": 3490.9223258813618,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 3170.8556351049374,
+   "costed": 3181.3956351049364,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 3602.809764352811,
+   "costed": 3613.9097643528107,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 3405.4716419087467,
+   "costed": 3416.5716419087466,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 3197.588860130337,
+   "costed": 3208.1288601303345,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 3429.3613665601897,
+   "costed": 3440.4613665601873,
+   "probes": 555
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 5024.9482422041265,
+   "costed": 5024.9482422041265,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4489.667614970101,
+   "costed": 4489.667614970101,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 5129.906167229493,
+   "costed": 5129.906167229493,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4614.444369195243,
+   "costed": 4614.444369195243,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4675.049647712259,
+   "costed": 4675.049647712259,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 5600.71179599583,
+   "costed": 5600.71179599583,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 6176.65289871063,
+   "costed": 6176.65289871063,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 5806.875418190728,
+   "costed": 5806.875418190728,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 5901.737251344086,
+   "costed": 5901.737251344086,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 5051.333712823412,
+   "costed": 5051.333712823412,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4844.562471873573,
+   "costed": 4844.562471873573,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 5700.717060099298,
+   "costed": 5700.717060099298,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 5207.1893007508,
+   "costed": 5207.1893007508,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4987.125496917985,
+   "costed": 4987.125496917985,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 5963.891071276001,
+   "costed": 5963.891071276001,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 6143.369943129855,
+   "costed": 6143.369943129855,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 5899.865275617166,
+   "costed": 5899.865275617166,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 5340.371255890844,
+   "costed": 5340.371255890844,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4839.368771052807,
+   "costed": 4839.368771052807,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4940.73973082147,
+   "costed": 4940.73973082147,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 5569.235484896799,
+   "costed": 5569.235484896799,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 5424.729424549074,
+   "costed": 5424.729424549074,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 5559.7690436147495,
+   "costed": 5559.7690436147495,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 5764.4754787710335,
+   "costed": 5764.4754787710335,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 5449.963291343272,
+   "costed": 5449.963291343272,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 5467.6998088400105,
+   "costed": 5467.6998088400105,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 5634.632520103054,
+   "costed": 5634.632520103054,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 5990.052198988568,
+   "costed": 5990.052198988568,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 5815.521329803472,
+   "costed": 5815.521329803472,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 5896.938263704004,
+   "costed": 5896.938263704004,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4217.076509825868,
+   "costed": 4217.076509825868,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4227.146917341033,
+   "costed": 4227.146917341033,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4260.026089156109,
+   "costed": 4260.026089156109,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4248.87067611042,
+   "costed": 4248.87067611042,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4257.767404750812,
+   "costed": 4257.767404750812,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4219.144685728467,
+   "costed": 4219.144685728467,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4316.299893666304,
+   "costed": 4316.299893666304,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4183.063130414276,
+   "costed": 4183.063130414276,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4344.407348381717,
+   "costed": 4344.407348381717,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4282.592705293008,
+   "costed": 4282.592705293008,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4311.741604974742,
+   "costed": 4311.741604974742,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4302.924765323825,
+   "costed": 4302.924765323825,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4296.487464840012,
+   "costed": 4296.487464840012,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4290.291201499028,
+   "costed": 4290.291201499028,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4337.519160920038,
+   "costed": 4337.519160920038,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4255.083683087999,
+   "costed": 4255.083683087999,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4361.765073173157,
+   "costed": 4361.765073173157,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4200.048739039141,
+   "costed": 4200.048739039141,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4432.751126432361,
+   "costed": 4432.751126432361,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4330.837094920469,
+   "costed": 4330.837094920469,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4246.7471233043225,
+   "costed": 4246.7471233043225,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4208.837505994816,
+   "costed": 4208.837505994816,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4221.079642799907,
+   "costed": 4221.079642799907,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4231.209768962744,
+   "costed": 4231.209768962744,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4228.738363316918,
+   "costed": 4228.738363316918,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4207.401581627664,
+   "costed": 4207.401581627664,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4303.985166519162,
+   "costed": 4303.985166519162,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4118.259993935424,
+   "costed": 4118.259993935424,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4299.76848613803,
+   "costed": 4299.76848613803,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4229.897564694861,
+   "costed": 4229.897564694861,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4241.047893286803,
+   "costed": 4241.047893286803,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4216.919758992441,
+   "costed": 4216.919758992441,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4258.36381287358,
+   "costed": 4258.36381287358,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4239.993475244901,
+   "costed": 4239.993475244901,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4264.638779157343,
+   "costed": 4264.638779157343,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4235.138834170679,
+   "costed": 4235.138834170679,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4320.554186376386,
+   "costed": 4320.554186376386,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4166.205519664878,
+   "costed": 4166.205519664878,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4335.290418265476,
+   "costed": 4335.290418265476,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4260.31937280416,
+   "costed": 4260.31937280416,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4154.675613103537,
+   "costed": 4154.675613103537,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4204.0162642540035,
+   "costed": 4204.0162642540035,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4203.727621267924,
+   "costed": 4203.727621267924,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4244.512125213468,
+   "costed": 4244.512125213468,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4211.361772412963,
+   "costed": 4211.361772412963,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4170.215030225138,
+   "costed": 4170.215030225138,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4260.967215084005,
+   "costed": 4260.967215084005,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4086.457531077,
+   "costed": 4086.457531077,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4302.183807591214,
+   "costed": 4302.183807591214,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4193.867887104623,
+   "costed": 4193.867887104623,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 0,
+   "control": 4349.999793783399,
+   "costed": 4349.999793783399,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 1,
+   "control": 4288.60772634885,
+   "costed": 4288.60772634885,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 2,
+   "control": 4331.002761531752,
+   "costed": 4331.002761531752,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 3,
+   "control": 4343.581048165567,
+   "costed": 4343.581048165567,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 4,
+   "control": 4314.86723275687,
+   "costed": 4314.86723275687,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 5,
+   "control": 4326.269381742914,
+   "costed": 4326.269381742914,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 6,
+   "control": 4392.755254336126,
+   "costed": 4392.755254336126,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 7,
+   "control": 4180.663386297754,
+   "costed": 4180.663386297754,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 8,
+   "control": 4420.3453522050395,
+   "costed": 4420.3453522050395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 10,
+   "seed": 9,
+   "control": 4327.880363739487,
+   "costed": 4327.880363739487,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 3143.056002721088,
+   "costed": 3143.056002721088,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 3182.566270535033,
+   "costed": 3182.566270535033,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 3160.806569010169,
+   "costed": 3160.806569010169,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 3261.954382206161,
+   "costed": 3261.954382206161,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 3084.1711029480794,
+   "costed": 3084.1711029480794,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 3073.088732187226,
+   "costed": 3073.088732187226,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 3180.351325524178,
+   "costed": 3180.351325524178,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 3123.7085833396095,
+   "costed": 3123.7085833396095,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 3103.3463098967186,
+   "costed": 3103.3463098967186,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 3159.7769437795446,
+   "costed": 3159.7769437795446,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4028.282531201846,
+   "costed": 4038.282531201847,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 3881.074199008236,
+   "costed": 3891.0741990082347,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4128.330380938937,
+   "costed": 4138.330380938939,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4077.460981503199,
+   "costed": 4087.4609815031977,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 3923.806929063643,
+   "costed": 3933.8069290636417,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 3959.580383947495,
+   "costed": 3969.5803839474934,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4078.797383009711,
+   "costed": 4088.797383009711,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 3972.01845967548,
+   "costed": 3982.0184596754793,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 3788.8963186750107,
+   "costed": 3798.89631867501,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4182.486789530692,
+   "costed": 4192.486789530692,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 3522.6056257667506,
+   "costed": 3533.145625766749,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 3622.1152209407423,
+   "costed": 3633.2152209407427,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 3890.385741381354,
+   "costed": 3902.585741381355,
+   "probes": 610
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 3662.2786010783225,
+   "costed": 3673.378601078323,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 3689.031544848748,
+   "costed": 3699.5715448487467,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 3704.631619665983,
+   "costed": 3716.2716196659817,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 3775.012121146855,
+   "costed": 3786.1121211468553,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 3697.450497867943,
+   "costed": 3709.010497867943,
+   "probes": 578
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 3848.377752405809,
+   "costed": 3859.477752405807,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 3615.9993656501038,
+   "costed": 3626.5393656501014,
+   "probes": 527
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4758.100129206186,
+   "costed": 4758.100129206186,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 5176.162294703537,
+   "costed": 5176.162294703537,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4536.079127511042,
+   "costed": 4536.079127511042,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 5578.993865719401,
+   "costed": 5578.993865719401,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 5481.364756264131,
+   "costed": 5481.364756264131,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4659.246107817009,
+   "costed": 4659.246107817009,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4995.382507053624,
+   "costed": 4995.382507053624,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4970.119957521096,
+   "costed": 4970.119957521096,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 5138.237304402871,
+   "costed": 5138.237304402871,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4871.025963968035,
+   "costed": 4871.025963968035,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 5667.09353920417,
+   "costed": 5667.09353920417,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 5031.566118370143,
+   "costed": 5031.566118370143,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4690.243458613349,
+   "costed": 4690.243458613349,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 5477.963884705531,
+   "costed": 5477.963884705531,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 5169.696466653592,
+   "costed": 5169.696466653592,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 5090.410253311819,
+   "costed": 5090.410253311819,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 5049.595664211508,
+   "costed": 5049.595664211508,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4872.434927613877,
+   "costed": 4872.434927613877,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4987.093869817546,
+   "costed": 4987.093869817546,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 5441.3197348896565,
+   "costed": 5441.3197348896565,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 5161.831205722121,
+   "costed": 5161.831205722121,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 5109.874758553707,
+   "costed": 5109.874758553707,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 5046.652712298753,
+   "costed": 5046.652712298753,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 5165.693956966143,
+   "costed": 5165.693956966143,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 5154.975752380641,
+   "costed": 5154.975752380641,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 5027.180587586736,
+   "costed": 5027.180587586736,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 5226.267261841593,
+   "costed": 5226.267261841593,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 5221.522574956814,
+   "costed": 5221.522574956814,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 5237.808531052507,
+   "costed": 5237.808531052507,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4964.427126982831,
+   "costed": 4964.427126982831,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4217.076509825868,
+   "costed": 4217.076509825868,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4227.146917341033,
+   "costed": 4227.146917341033,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4260.026089156109,
+   "costed": 4260.026089156109,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4248.87067611042,
+   "costed": 4248.87067611042,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4257.767404750812,
+   "costed": 4257.767404750812,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4219.144685728467,
+   "costed": 4219.144685728467,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4316.299893666304,
+   "costed": 4316.299893666304,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4183.063130414276,
+   "costed": 4183.063130414276,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4344.407348381717,
+   "costed": 4344.407348381717,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4282.592705293008,
+   "costed": 4282.592705293008,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4311.741604974742,
+   "costed": 4311.741604974742,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4302.924765323825,
+   "costed": 4302.924765323825,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4296.487464840012,
+   "costed": 4296.487464840012,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4290.291201499028,
+   "costed": 4290.291201499028,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4337.519160920038,
+   "costed": 4337.519160920038,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4255.083683087999,
+   "costed": 4255.083683087999,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4361.765073173157,
+   "costed": 4361.765073173157,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4200.048739039141,
+   "costed": 4200.048739039141,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4432.751126432361,
+   "costed": 4432.751126432361,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4330.837094920469,
+   "costed": 4330.837094920469,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4246.7471233043225,
+   "costed": 4246.7471233043225,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4208.837505994816,
+   "costed": 4208.837505994816,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4221.079642799907,
+   "costed": 4221.079642799907,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4231.209768962744,
+   "costed": 4231.209768962744,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4228.738363316918,
+   "costed": 4228.738363316918,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4207.401581627664,
+   "costed": 4207.401581627664,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4303.985166519162,
+   "costed": 4303.985166519162,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4118.259993935424,
+   "costed": 4118.259993935424,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4299.76848613803,
+   "costed": 4299.76848613803,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4229.897564694861,
+   "costed": 4229.897564694861,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4241.047893286803,
+   "costed": 4241.047893286803,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4216.919758992441,
+   "costed": 4216.919758992441,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4258.36381287358,
+   "costed": 4258.36381287358,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4239.993475244901,
+   "costed": 4239.993475244901,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4264.638779157343,
+   "costed": 4264.638779157343,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4235.138834170679,
+   "costed": 4235.138834170679,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4320.554186376386,
+   "costed": 4320.554186376386,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4166.205519664878,
+   "costed": 4166.205519664878,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4335.290418265476,
+   "costed": 4335.290418265476,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4260.31937280416,
+   "costed": 4260.31937280416,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4154.675613103537,
+   "costed": 4154.675613103537,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4204.0162642540035,
+   "costed": 4204.0162642540035,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4203.727621267924,
+   "costed": 4203.727621267924,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4244.512125213468,
+   "costed": 4244.512125213468,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4211.361772412963,
+   "costed": 4211.361772412963,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4170.215030225138,
+   "costed": 4170.215030225138,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4260.967215084005,
+   "costed": 4260.967215084005,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4086.457531077,
+   "costed": 4086.457531077,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4302.183807591214,
+   "costed": 4302.183807591214,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4193.867887104623,
+   "costed": 4193.867887104623,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 0,
+   "control": 4349.999793783399,
+   "costed": 4349.999793783399,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 1,
+   "control": 4288.60772634885,
+   "costed": 4288.60772634885,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 2,
+   "control": 4331.002761531752,
+   "costed": 4331.002761531752,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 3,
+   "control": 4343.581048165567,
+   "costed": 4343.581048165567,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 4,
+   "control": 4314.86723275687,
+   "costed": 4314.86723275687,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 5,
+   "control": 4326.269381742914,
+   "costed": 4326.269381742914,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 6,
+   "control": 4392.755254336126,
+   "costed": 4392.755254336126,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 7,
+   "control": 4180.663386297754,
+   "costed": 4180.663386297754,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 8,
+   "control": 4420.3453522050395,
+   "costed": 4420.3453522050395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 105,
+   "r": 20,
+   "seed": 9,
+   "control": 4327.880363739487,
+   "costed": 4327.880363739487,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 1541.1451674381638,
+   "costed": 1541.1451674381638,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 1450.3146586095138,
+   "costed": 1450.3146586095138,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 1311.4301643325455,
+   "costed": 1311.4301643325455,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 1530.514883697923,
+   "costed": 1530.514883697923,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 1404.4170582806253,
+   "costed": 1404.4170582806253,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 1382.2020052257558,
+   "costed": 1382.2020052257558,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 1445.384951497131,
+   "costed": 1445.384951497131,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 1505.1609054196515,
+   "costed": 1505.1609054196515,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 1475.0897166990023,
+   "costed": 1475.0897166990023,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 1459.8155500806604,
+   "costed": 1459.8155500806604,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4047.203051395987,
+   "costed": 4057.203051395986,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 3950.2062808959536,
+   "costed": 3960.206280895954,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4527.66033340217,
+   "costed": 4537.660333402169,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4171.358285329699,
+   "costed": 4181.358285329701,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4139.860182232593,
+   "costed": 4149.860182232592,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 3781.256246465791,
+   "costed": 3791.2562464657926,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 4155.364797221629,
+   "costed": 4165.364797221626,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4167.145830552255,
+   "costed": 4177.145830552252,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 3915.1579506144767,
+   "costed": 3925.1579506144767,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4002.7489816026755,
+   "costed": 4012.748981602676,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 3800.5390113845674,
+   "costed": 3812.7390113845686,
+   "probes": 610
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 3457.102722875964,
+   "costed": 3468.2027228759625,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 3634.1002075941115,
+   "costed": 3645.2002075941123,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 3975.9960306638054,
+   "costed": 3987.096030663808,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 3440.2969160306843,
+   "costed": 3451.396916030685,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 3910.736330628221,
+   "costed": 3922.3963306282217,
+   "probes": 583
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 3744.974978875601,
+   "costed": 3756.6149788756024,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 3316.005662309715,
+   "costed": 3327.6456623097156,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 4359.128536890221,
+   "costed": 4370.768536890222,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 3287.5805726002604,
+   "costed": 3299.2205726002626,
+   "probes": 582
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 6073.343678571822,
+   "costed": 6073.343678571822,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 6342.4614554170275,
+   "costed": 6342.4614554170275,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 5570.793158373915,
+   "costed": 5570.793158373915,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 5950.1254524376345,
+   "costed": 5950.1254524376345,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 5733.997366072031,
+   "costed": 5733.997366072031,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 6095.901643539305,
+   "costed": 6095.901643539305,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 6422.262013033516,
+   "costed": 6422.262013033516,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 5587.466709719643,
+   "costed": 5587.466709719643,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 5681.682175738238,
+   "costed": 5681.682175738238,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 5429.472051377247,
+   "costed": 5429.472051377247,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 5661.558243764239,
+   "costed": 5661.558243764239,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 6236.764902986397,
+   "costed": 6236.764902986397,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 5423.708271554363,
+   "costed": 5423.708271554363,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 6244.849972800493,
+   "costed": 6244.849972800493,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 5957.1845227097,
+   "costed": 5957.1845227097,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 5526.194591950224,
+   "costed": 5526.194591950224,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 6544.993185911134,
+   "costed": 6544.993185911134,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 5430.075391154377,
+   "costed": 5430.075391154377,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 6515.982277984522,
+   "costed": 6515.982277984522,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 6075.984156399865,
+   "costed": 6075.984156399865,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 5708.229589342475,
+   "costed": 5708.229589342475,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 6122.884388918361,
+   "costed": 6122.884388918361,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 5910.163967982252,
+   "costed": 5910.163967982252,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 6058.209119636571,
+   "costed": 6058.209119636571,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 5820.669063569626,
+   "costed": 5820.669063569626,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 5861.669941206245,
+   "costed": 5861.669941206245,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 5976.392388486082,
+   "costed": 5976.392388486082,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 5677.775356693097,
+   "costed": 5677.775356693097,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 6147.031702583849,
+   "costed": 6147.031702583849,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 5994.5049513407785,
+   "costed": 5994.5049513407785,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4896.849845931474,
+   "costed": 4896.849845931474,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4806.17308579309,
+   "costed": 4806.17308579309,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4872.305230161091,
+   "costed": 4872.305230161091,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4893.880411009395,
+   "costed": 4893.880411009395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4906.1370270369025,
+   "costed": 4906.1370270369025,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4889.545103091989,
+   "costed": 4889.545103091989,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 4985.751670290216,
+   "costed": 4985.751670290216,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4807.487285608921,
+   "costed": 4807.487285608921,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 5025.9713313982975,
+   "costed": 5025.9713313982975,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4897.8518024996965,
+   "costed": 4897.8518024996965,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4938.999395278229,
+   "costed": 4938.999395278229,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4847.388405643089,
+   "costed": 4847.388405643089,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4906.414985132709,
+   "costed": 4906.414985132709,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4933.147906021596,
+   "costed": 4933.147906021596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4928.655416487253,
+   "costed": 4928.655416487253,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4907.357079118827,
+   "costed": 4907.357079118827,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 5041.997655441425,
+   "costed": 5041.997655441425,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4875.87676304066,
+   "costed": 4875.87676304066,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 5050.710146073384,
+   "costed": 5050.710146073384,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4909.418248812842,
+   "costed": 4909.418248812842,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4916.109370560576,
+   "costed": 4916.109370560576,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4828.245040612085,
+   "costed": 4828.245040612085,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4885.972696443949,
+   "costed": 4885.972696443949,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4904.474721143499,
+   "costed": 4904.474721143499,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4936.393452965694,
+   "costed": 4936.393452965694,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4900.987649664553,
+   "costed": 4900.987649664553,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 5037.415212916428,
+   "costed": 5037.415212916428,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4857.76236070241,
+   "costed": 4857.76236070241,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 5040.675762067568,
+   "costed": 5040.675762067568,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4861.787855652736,
+   "costed": 4861.787855652736,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4934.666082426966,
+   "costed": 4934.666082426966,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4854.189237616266,
+   "costed": 4854.189237616266,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4888.550326837174,
+   "costed": 4888.550326837174,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4920.429500391906,
+   "costed": 4920.429500391906,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4949.903539002012,
+   "costed": 4949.903539002012,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4898.914048470543,
+   "costed": 4898.914048470543,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 5036.468006957953,
+   "costed": 5036.468006957953,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4872.780551192324,
+   "costed": 4872.780551192324,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 5015.928990266617,
+   "costed": 5015.928990266617,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4898.505632391213,
+   "costed": 4898.505632391213,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4648.37656531067,
+   "costed": 4648.37656531067,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4593.718771461948,
+   "costed": 4593.718771461948,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4591.539243116166,
+   "costed": 4591.539243116166,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4621.321074503873,
+   "costed": 4621.321074503873,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4649.250288191357,
+   "costed": 4649.250288191357,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4626.817585763466,
+   "costed": 4626.817585763466,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 4741.699798861052,
+   "costed": 4741.699798861052,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4552.93400573689,
+   "costed": 4552.93400573689,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 4741.610408548453,
+   "costed": 4741.610408548453,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4595.22714138362,
+   "costed": 4595.22714138362,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 0,
+   "control": 4692.474093166336,
+   "costed": 4692.474093166336,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 1,
+   "control": 4650.540086186795,
+   "costed": 4650.540086186795,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 2,
+   "control": 4595.343224217618,
+   "costed": 4595.343224217618,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 3,
+   "control": 4748.896614735537,
+   "costed": 4748.896614735537,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 4,
+   "control": 4717.101666494996,
+   "costed": 4717.101666494996,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 5,
+   "control": 4702.001313817735,
+   "costed": 4702.001313817735,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 6,
+   "control": 4823.352525686763,
+   "costed": 4823.352525686763,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 7,
+   "control": 4655.613941543607,
+   "costed": 4655.613941543607,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 8,
+   "control": 4814.994139012649,
+   "costed": 4814.994139012649,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 5,
+   "seed": 9,
+   "control": 4682.707376697523,
+   "costed": 4682.707376697523,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 2585.880137438996,
+   "costed": 2585.880137438996,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 2457.9434293032587,
+   "costed": 2457.9434293032587,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 2487.257202719326,
+   "costed": 2487.257202719326,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 2810.2052031795715,
+   "costed": 2810.2052031795715,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 2319.5646726061927,
+   "costed": 2319.5646726061927,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 2416.3340620512763,
+   "costed": 2416.3340620512763,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 2421.066700241447,
+   "costed": 2421.066700241447,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 2669.613755408365,
+   "costed": 2669.613755408365,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 2523.73306265698,
+   "costed": 2523.73306265698,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 2406.2393267725583,
+   "costed": 2406.2393267725583,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4182.631321706132,
+   "costed": 4192.63132170614,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4147.820030433891,
+   "costed": 4157.820030433891,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4573.004029626412,
+   "costed": 4583.004029626412,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4296.099468022513,
+   "costed": 4306.09946802251,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4356.575652391373,
+   "costed": 4366.57565239137,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4050.9200684898906,
+   "costed": 4060.9200684898924,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 4318.7990733945235,
+   "costed": 4328.799073394517,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4196.285505952181,
+   "costed": 4206.285505952182,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 4112.533955841571,
+   "costed": 4122.533955841567,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4061.939957131272,
+   "costed": 4071.9399571312715,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 3360.0579854510656,
+   "costed": 3371.157985451065,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 3502.9077994912273,
+   "costed": 3514.007799491228,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 3542.323586668955,
+   "costed": 3553.4235866689573,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 3880.046908184155,
+   "costed": 3891.706908184155,
+   "probes": 583
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 3811.606312226123,
+   "costed": 3822.706312226123,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 3949.5763563887595,
+   "costed": 3960.6763563887575,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 3580.4480275363094,
+   "costed": 3591.548027536307,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 3650.1547869207993,
+   "costed": 3661.7947869208,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 3749.4781351269316,
+   "costed": 3760.57813512693,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 3674.7783116584396,
+   "costed": 3685.8783116584386,
+   "probes": 555
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 5904.305282792642,
+   "costed": 5904.305282792642,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 5738.847586978472,
+   "costed": 5738.847586978472,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 6016.332955076585,
+   "costed": 6016.332955076585,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 6056.326507535112,
+   "costed": 6056.326507535112,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4966.04548964798,
+   "costed": 4966.04548964798,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 5371.071516612513,
+   "costed": 5371.071516612513,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 6662.055457765699,
+   "costed": 6662.055457765699,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 5779.212024479577,
+   "costed": 5779.212024479577,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 6409.128816178786,
+   "costed": 6409.128816178786,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 6033.554802920761,
+   "costed": 6033.554802920761,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 5672.326135096936,
+   "costed": 5672.326135096936,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 5640.547701948532,
+   "costed": 5640.547701948532,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 5750.24342620561,
+   "costed": 5750.24342620561,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4952.142769767544,
+   "costed": 4952.142769767544,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 5631.105440233026,
+   "costed": 5631.105440233026,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 6598.92546631717,
+   "costed": 6598.92546631717,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 5850.732704270744,
+   "costed": 5850.732704270744,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 5309.646544425488,
+   "costed": 5309.646544425488,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 6157.953966049293,
+   "costed": 6157.953966049293,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 5216.043132530774,
+   "costed": 5216.043132530774,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 5855.316527879581,
+   "costed": 5855.316527879581,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 6070.965493168532,
+   "costed": 6070.965493168532,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 5865.956205079133,
+   "costed": 5865.956205079133,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 5919.794567849812,
+   "costed": 5919.794567849812,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 6009.450616256967,
+   "costed": 6009.450616256967,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 5684.2886469797395,
+   "costed": 5684.2886469797395,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 6202.674659129424,
+   "costed": 6202.674659129424,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 6170.803560512023,
+   "costed": 6170.803560512023,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 6263.02975904764,
+   "costed": 6263.02975904764,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 6166.235750372812,
+   "costed": 6166.235750372812,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4896.849845931474,
+   "costed": 4896.849845931474,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4806.17308579309,
+   "costed": 4806.17308579309,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4872.305230161091,
+   "costed": 4872.305230161091,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4893.880411009395,
+   "costed": 4893.880411009395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4906.1370270369025,
+   "costed": 4906.1370270369025,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4889.545103091989,
+   "costed": 4889.545103091989,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 4985.751670290216,
+   "costed": 4985.751670290216,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4807.487285608921,
+   "costed": 4807.487285608921,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 5025.9713313982975,
+   "costed": 5025.9713313982975,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4897.8518024996965,
+   "costed": 4897.8518024996965,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4938.999395278229,
+   "costed": 4938.999395278229,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4847.388405643089,
+   "costed": 4847.388405643089,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4906.414985132709,
+   "costed": 4906.414985132709,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4933.147906021596,
+   "costed": 4933.147906021596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4928.655416487253,
+   "costed": 4928.655416487253,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4907.357079118827,
+   "costed": 4907.357079118827,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 5041.997655441425,
+   "costed": 5041.997655441425,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4875.87676304066,
+   "costed": 4875.87676304066,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 5050.710146073384,
+   "costed": 5050.710146073384,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4909.418248812842,
+   "costed": 4909.418248812842,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4916.109370560576,
+   "costed": 4916.109370560576,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4828.245040612085,
+   "costed": 4828.245040612085,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4885.972696443949,
+   "costed": 4885.972696443949,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4904.474721143499,
+   "costed": 4904.474721143499,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4936.393452965694,
+   "costed": 4936.393452965694,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4900.987649664553,
+   "costed": 4900.987649664553,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 5037.415212916428,
+   "costed": 5037.415212916428,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4857.76236070241,
+   "costed": 4857.76236070241,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 5040.675762067568,
+   "costed": 5040.675762067568,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4861.787855652736,
+   "costed": 4861.787855652736,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4934.666082426966,
+   "costed": 4934.666082426966,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4854.189237616266,
+   "costed": 4854.189237616266,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4888.550326837174,
+   "costed": 4888.550326837174,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4920.429500391906,
+   "costed": 4920.429500391906,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4949.903539002012,
+   "costed": 4949.903539002012,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4898.914048470543,
+   "costed": 4898.914048470543,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 5036.468006957953,
+   "costed": 5036.468006957953,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4872.780551192324,
+   "costed": 4872.780551192324,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 5015.928990266617,
+   "costed": 5015.928990266617,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4898.505632391213,
+   "costed": 4898.505632391213,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4648.37656531067,
+   "costed": 4648.37656531067,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4593.718771461948,
+   "costed": 4593.718771461948,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4591.539243116166,
+   "costed": 4591.539243116166,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4621.321074503873,
+   "costed": 4621.321074503873,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4649.250288191357,
+   "costed": 4649.250288191357,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4626.817585763466,
+   "costed": 4626.817585763466,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 4741.699798861052,
+   "costed": 4741.699798861052,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4552.93400573689,
+   "costed": 4552.93400573689,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 4741.610408548453,
+   "costed": 4741.610408548453,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4595.22714138362,
+   "costed": 4595.22714138362,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 0,
+   "control": 4692.474093166336,
+   "costed": 4692.474093166336,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 1,
+   "control": 4650.540086186795,
+   "costed": 4650.540086186795,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 2,
+   "control": 4595.343224217618,
+   "costed": 4595.343224217618,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 3,
+   "control": 4748.896614735537,
+   "costed": 4748.896614735537,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 4,
+   "control": 4717.101666494996,
+   "costed": 4717.101666494996,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 5,
+   "control": 4702.001313817735,
+   "costed": 4702.001313817735,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 6,
+   "control": 4823.352525686763,
+   "costed": 4823.352525686763,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 7,
+   "control": 4655.613941543607,
+   "costed": 4655.613941543607,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 8,
+   "control": 4814.994139012649,
+   "costed": 4814.994139012649,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 10,
+   "seed": 9,
+   "control": 4682.707376697523,
+   "costed": 4682.707376697523,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 3346.0634576853327,
+   "costed": 3346.0634576853327,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 3312.7038225104534,
+   "costed": 3312.7038225104534,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 3347.4086639737284,
+   "costed": 3347.4086639737284,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 3443.0082861466817,
+   "costed": 3443.0082861466817,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 3322.9538128302543,
+   "costed": 3322.9538128302543,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 3330.2703361390636,
+   "costed": 3330.2703361390636,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 3418.4456921358055,
+   "costed": 3418.4456921358055,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 3505.1306148118447,
+   "costed": 3505.1306148118447,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 3400.569746405059,
+   "costed": 3400.569746405059,
+   "probes": 0
+  },
+  {
+   "method": "Oracle-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 3399.105366887002,
+   "costed": 3399.105366887002,
+   "probes": 0
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4349.001909831778,
+   "costed": 4359.001909831775,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4317.138292739962,
+   "costed": 4327.138292739959,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4897.300661331736,
+   "costed": 4907.300661331739,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4515.078803481185,
+   "costed": 4525.07880348118,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4519.706702564932,
+   "costed": 4529.706702564926,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4309.767905914028,
+   "costed": 4319.767905914031,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 4537.726653674276,
+   "costed": 4547.726653674272,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4363.86812159559,
+   "costed": 4373.868121595594,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 4343.593602130489,
+   "costed": 4353.593602130495,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Alg1",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4277.562505084801,
+   "costed": 4287.5625050847975,
+   "probes": 500
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 3948.113572577386,
+   "costed": 3959.2135725773887,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4107.967159525608,
+   "costed": 4119.607159525608,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 3947.7671187088267,
+   "costed": 3958.3071187088285,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4151.342086114703,
+   "costed": 4162.422086114706,
+   "probes": 554
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4201.093515092692,
+   "costed": 4212.733515092693,
+   "probes": 582
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4056.8212663124805,
+   "costed": 4067.3612663124777,
+   "probes": 527
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 4093.320083264354,
+   "costed": 4105.500083264354,
+   "probes": 609
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4177.223291331664,
+   "costed": 4188.303291331664,
+   "probes": 554
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 4260.873096990948,
+   "costed": 4271.9730969909515,
+   "probes": 555
+  },
+  {
+   "method": "SPSC-Adaptive",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4163.289083931524,
+   "costed": 4174.369083931528,
+   "probes": 554
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4618.731126932262,
+   "costed": 4618.731126932262,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4934.514929083402,
+   "costed": 4934.514929083402,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4476.643306991267,
+   "costed": 4476.643306991267,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 5581.892869367457,
+   "costed": 5581.892869367457,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 5033.224606177957,
+   "costed": 5033.224606177957,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4212.995376680732,
+   "costed": 4212.995376680732,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5028.658662895634,
+   "costed": 5028.658662895634,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4372.019199721812,
+   "costed": 4372.019199721812,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 4933.427149646195,
+   "costed": 4933.427149646195,
+   "probes": 0
+  },
+  {
+   "method": "LowOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4958.221783495842,
+   "costed": 4958.221783495842,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 5268.690460067939,
+   "costed": 5268.690460067939,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4071.6962350225563,
+   "costed": 4071.6962350225563,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 5819.613613273032,
+   "costed": 5819.613613273032,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 5167.807460395731,
+   "costed": 5167.807460395731,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 5275.430073836573,
+   "costed": 5275.430073836573,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 5012.480436784649,
+   "costed": 5012.480436784649,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5420.293283649802,
+   "costed": 5420.293283649802,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4741.231475798933,
+   "costed": 4741.231475798933,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5499.313283187535,
+   "costed": 5499.313283187535,
+   "probes": 0
+  },
+  {
+   "method": "VOFUL",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4756.533736747713,
+   "costed": 4756.533736747713,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 5103.251082090951,
+   "costed": 5103.251082090951,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4869.131041324823,
+   "costed": 4869.131041324823,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4802.1057299242775,
+   "costed": 4802.1057299242775,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 5440.7381144412275,
+   "costed": 5440.7381144412275,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 5106.777012980006,
+   "costed": 5106.777012980006,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 5196.170418282046,
+   "costed": 5196.170418282046,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5261.307528330549,
+   "costed": 5261.307528330549,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 5131.222173122288,
+   "costed": 5131.222173122288,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5023.047946759373,
+   "costed": 5023.047946759373,
+   "probes": 0
+  },
+  {
+   "method": "LowRank-Reward",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 5330.246811362409,
+   "costed": 5330.246811362409,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4896.849845931474,
+   "costed": 4896.849845931474,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4806.17308579309,
+   "costed": 4806.17308579309,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4872.305230161091,
+   "costed": 4872.305230161091,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4893.880411009395,
+   "costed": 4893.880411009395,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4906.1370270369025,
+   "costed": 4906.1370270369025,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4889.545103091989,
+   "costed": 4889.545103091989,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 4985.751670290216,
+   "costed": 4985.751670290216,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4807.487285608921,
+   "costed": 4807.487285608921,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5025.9713313982975,
+   "costed": 5025.9713313982975,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4897.8518024996965,
+   "costed": 4897.8518024996965,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4938.999395278229,
+   "costed": 4938.999395278229,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4847.388405643089,
+   "costed": 4847.388405643089,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4906.414985132709,
+   "costed": 4906.414985132709,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4933.147906021596,
+   "costed": 4933.147906021596,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4928.655416487253,
+   "costed": 4928.655416487253,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4907.357079118827,
+   "costed": 4907.357079118827,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5041.997655441425,
+   "costed": 5041.997655441425,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4875.87676304066,
+   "costed": 4875.87676304066,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5050.710146073384,
+   "costed": 5050.710146073384,
+   "probes": 0
+  },
+  {
+   "method": "D-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4909.418248812842,
+   "costed": 4909.418248812842,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4916.109370560576,
+   "costed": 4916.109370560576,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4828.245040612085,
+   "costed": 4828.245040612085,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4885.972696443949,
+   "costed": 4885.972696443949,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4904.474721143499,
+   "costed": 4904.474721143499,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4936.393452965694,
+   "costed": 4936.393452965694,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4900.987649664553,
+   "costed": 4900.987649664553,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5037.415212916428,
+   "costed": 5037.415212916428,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4857.76236070241,
+   "costed": 4857.76236070241,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5040.675762067568,
+   "costed": 5040.675762067568,
+   "probes": 0
+  },
+  {
+   "method": "Restart-LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4861.787855652736,
+   "costed": 4861.787855652736,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4934.666082426966,
+   "costed": 4934.666082426966,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4854.189237616266,
+   "costed": 4854.189237616266,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4888.550326837174,
+   "costed": 4888.550326837174,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4920.429500391906,
+   "costed": 4920.429500391906,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4949.903539002012,
+   "costed": 4949.903539002012,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4898.914048470543,
+   "costed": 4898.914048470543,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 5036.468006957953,
+   "costed": 5036.468006957953,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4872.780551192324,
+   "costed": 4872.780551192324,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 5015.928990266617,
+   "costed": 5015.928990266617,
+   "probes": 0
+  },
+  {
+   "method": "LinUCB",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4898.505632391213,
+   "costed": 4898.505632391213,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4648.37656531067,
+   "costed": 4648.37656531067,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4593.718771461948,
+   "costed": 4593.718771461948,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4591.539243116166,
+   "costed": 4591.539243116166,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4621.321074503873,
+   "costed": 4621.321074503873,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4649.250288191357,
+   "costed": 4649.250288191357,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4626.817585763466,
+   "costed": 4626.817585763466,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 4741.699798861052,
+   "costed": 4741.699798861052,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4552.93400573689,
+   "costed": 4552.93400573689,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 4741.610408548453,
+   "costed": 4741.610408548453,
+   "probes": 0
+  },
+  {
+   "method": "LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4595.22714138362,
+   "costed": 4595.22714138362,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 0,
+   "control": 4692.474093166336,
+   "costed": 4692.474093166336,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 1,
+   "control": 4650.540086186795,
+   "costed": 4650.540086186795,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 2,
+   "control": 4595.343224217618,
+   "costed": 4595.343224217618,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 3,
+   "control": 4748.896614735537,
+   "costed": 4748.896614735537,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 4,
+   "control": 4717.101666494996,
+   "costed": 4717.101666494996,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 5,
+   "control": 4702.001313817735,
+   "costed": 4702.001313817735,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 6,
+   "control": 4823.352525686763,
+   "costed": 4823.352525686763,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 7,
+   "control": 4655.613941543607,
+   "costed": 4655.613941543607,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 8,
+   "control": 4814.994139012649,
+   "costed": 4814.994139012649,
+   "probes": 0
+  },
+  {
+   "method": "SW-LinTS",
+   "d": 200,
+   "r": 20,
+   "seed": 9,
+   "control": 4682.707376697523,
+   "costed": 4682.707376697523,
+   "probes": 0
+  }
+ ],
+ "D_VALUES": [
+  55,
+  105,
+  200
+ ],
+ "R_VALUES": [
+  5,
+  10,
+  20
+ ],
+ "methods": [
+  "Oracle-LinUCB",
+  "SPSC-Alg1",
+  "SPSC-Adaptive",
+  "LowOFUL",
+  "VOFUL",
+  "LowRank-Reward",
+  "SW-LinUCB",
+  "D-LinUCB",
+  "Restart-LinUCB",
+  "LinUCB",
+  "LinTS",
+  "SW-LinTS"
+ ]
+}

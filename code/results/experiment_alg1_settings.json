@@ -1,0 +1,933 @@
+{
+ "rows": [
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   0,
+   569.8414915227559
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   1,
+   528.4160475553547
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   2,
+   427.43041643172586
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   3,
+   579.320046690253
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   4,
+   531.6521862931124
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   5,
+   501.54444835530757
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   6,
+   550.8208406012234
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   7,
+   591.7193543441533
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   8,
+   652.4685443051663
+  ],
+  [
+   "synthetic d=30 r=5",
+   "LinUCB",
+   9,
+   514.1635470570695
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   0,
+   408.03975924888044
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   1,
+   341.03548520452745
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   2,
+   337.7000620910167
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   3,
+   391.6253626727468
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   4,
+   376.7191936827593
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   5,
+   372.5870756622513
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   6,
+   356.5213059351752
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   7,
+   424.74414396154066
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   8,
+   391.466955256515
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs (every probe, standard radius)",
+   9,
+   342.20084646360897
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   0,
+   399.32113291654883
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   1,
+   347.57725929182266
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   2,
+   327.6719141078878
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   3,
+   395.2580614783438
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   4,
+   378.1467737231023
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   5,
+   411.6950188630798
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   6,
+   354.7388596470476
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   7,
+   406.98137792620673
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   8,
+   415.7325699764953
+  ],
+  [
+   "synthetic d=30 r=5",
+   "runs with the 1, 2, 4, ... refresh",
+   9,
+   334.2705911787077
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   0,
+   519.7513719080641
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   1,
+   500.9668904554089
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   2,
+   417.21941773080636
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   3,
+   542.2583246078485
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   4,
+   501.68348511754095
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   5,
+   516.8789659405359
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   6,
+   515.595136536311
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   7,
+   576.7993591368212
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   8,
+   579.9636924640075
+  ],
+  [
+   "synthetic d=30 r=5",
+   "Algorithm 1 as written",
+   9,
+   508.962587694614
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   0,
+   344.6319574110414
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   1,
+   408.13217665465925
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   2,
+   323.84132999738125
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   3,
+   326.2931273273683
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   4,
+   406.2963758699251
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   5,
+   341.7570540827482
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   6,
+   339.42445362114995
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   7,
+   449.88100653396424
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   8,
+   433.6228453069601
+  ],
+  [
+   "synthetic d=30 r=5",
+   "random r-dim subspace, no probes",
+   9,
+   344.77709620263175
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   0,
+   472.4677681364021
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   1,
+   507.08798682023007
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   2,
+   419.18486330625944
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   3,
+   438.82981995432675
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   4,
+   508.1810644047875
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   5,
+   381.91331423555346
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   6,
+   487.516246459032
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   7,
+   535.1303084901084
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   8,
+   510.1079925787006
+  ],
+  [
+   "synthetic d=100 r=10",
+   "LinUCB",
+   9,
+   454.33386188371367
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   0,
+   374.9559397178355
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   1,
+   406.8580026322872
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   2,
+   341.56562723487554
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   3,
+   351.49967430490165
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   4,
+   380.8891411760648
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   5,
+   315.55651311631874
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   6,
+   370.08197248655665
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   7,
+   425.3866820540892
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   8,
+   402.01033471364366
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs (every probe, standard radius)",
+   9,
+   355.5565594343175
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   0,
+   366.2312072152183
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   1,
+   394.63035273028197
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   2,
+   342.9781358623877
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   3,
+   350.05091135844856
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   4,
+   389.30057878696954
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   5,
+   317.2480167412812
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   6,
+   367.5473938994936
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   7,
+   425.4915606638313
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   8,
+   406.6022125323099
+  ],
+  [
+   "synthetic d=100 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   9,
+   361.49085629942044
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   0,
+   452.1942148717533
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   1,
+   493.18150783695273
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   2,
+   417.7879384785467
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   3,
+   437.6720502903873
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   4,
+   477.15886643241174
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   5,
+   381.95124288951297
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   6,
+   470.28103970170025
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   7,
+   518.8681679078925
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   8,
+   496.50162772192675
+  ],
+  [
+   "synthetic d=100 r=10",
+   "Algorithm 1 as written",
+   9,
+   437.7988171821505
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   0,
+   339.7224535351366
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   1,
+   387.8126811820992
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   2,
+   344.1796968668156
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   3,
+   318.80491495393994
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   4,
+   344.97101952304956
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   5,
+   291.486756592241
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   6,
+   361.6977426306107
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   7,
+   393.6730102852345
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   8,
+   372.58522842211465
+  ],
+  [
+   "synthetic d=100 r=10",
+   "random r-dim subspace, no probes",
+   9,
+   319.6072460426329
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   0,
+   3208.5474789019113
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   1,
+   3201.8102890896266
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   2,
+   3199.9868449322885
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   3,
+   3187.5821091855337
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   4,
+   3197.1845022621305
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   5,
+   3168.9486284255518
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   6,
+   3217.7449141086
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   7,
+   3188.494843655276
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   8,
+   3182.106832728765
+  ],
+  [
+   "pendigits d=105 r=10",
+   "LinUCB",
+   9,
+   3168.3003763471593
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   0,
+   1955.1451050110932
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   1,
+   1982.707881972671
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   2,
+   1848.6262983331883
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   3,
+   2234.2640815212244
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   4,
+   2216.9081543433576
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   5,
+   2014.694780540448
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   6,
+   2051.611967438857
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   7,
+   2363.034500407401
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   8,
+   1864.0627338412721
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs (every probe, standard radius)",
+   9,
+   2057.1664043827327
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   0,
+   1926.6260515803979
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   1,
+   1996.6153438089586
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   2,
+   1814.890477479874
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   3,
+   2175.393668989722
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   4,
+   2117.441733945424
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   5,
+   2141.3889863300633
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   6,
+   2073.1981679900573
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   7,
+   2369.4459129576394
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   8,
+   1786.869750229989
+  ],
+  [
+   "pendigits d=105 r=10",
+   "runs with the 1, 2, 4, ... refresh",
+   9,
+   2020.1979081264262
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   0,
+   3407.7516550560777
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   1,
+   3460.711866944318
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   2,
+   3148.125999378339
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   3,
+   3513.052614190942
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   4,
+   3544.5476104904938
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   5,
+   3300.321615728103
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   6,
+   3208.0515458998643
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   7,
+   3648.935933568296
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   8,
+   2970.8613832476044
+  ],
+  [
+   "pendigits d=105 r=10",
+   "Algorithm 1 as written",
+   9,
+   3350.1898894761894
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   0,
+   2161.3861780367292
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   1,
+   1955.4177172018458
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   2,
+   2355.536681453457
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   3,
+   2065.82132132294
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   4,
+   2177.7241839645435
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   5,
+   1814.5076230335087
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   6,
+   2151.3700435519163
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   7,
+   1974.7833364631113
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   8,
+   1936.7149148220071
+  ],
+  [
+   "pendigits d=105 r=10",
+   "random r-dim subspace, no probes",
+   9,
+   2532.7073932373405
+  ]
+ ],
+ "benchmarks": {
+  "synthetic d=30 r=5": {
+   "env": "synthetic",
+   "d": 30,
+   "r": 5,
+   "pe": 50,
+   "W": 400,
+   "lam": 0.01,
+   "c": 0.1
+  },
+  "synthetic d=100 r=10": {
+   "env": "synthetic",
+   "d": 100,
+   "r": 10,
+   "pe": 50,
+   "W": 400,
+   "lam": 0.01,
+   "c": 0.1
+  },
+  "pendigits d=105 r=10": {
+   "env": "pendigits",
+   "d": 105,
+   "r": 10,
+   "pe": 10,
+   "W": 400,
+   "lam": 0.01,
+   "c": 0.02
+  }
+ }
+}
