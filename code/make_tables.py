@@ -38,9 +38,8 @@ def costed(x, ds):
 
 
 def mean_se(v, ddof=0):
-    """Mean and standard error.  Table 19 uses the sample standard deviation (ddof=1) and the other tables
-    the population standard deviation (ddof=0), as in the paper.  A standard error can differ from the
-    paper by one unit from rounding."""
+    """Mean and standard error, with the population standard deviation (ddof=0) as in every table of the paper.
+    A standard error can differ from the paper by one unit from rounding."""
     v = np.asarray(v, dtype=float)
     return v.mean(), (v.std(ddof=ddof) / np.sqrt(len(v)) if len(v) > 1 else 0.0)
 
@@ -78,7 +77,8 @@ def realdata():
                 if m not in st:
                     txt.append(f"{'--':>14}")
                     continue
-                s = f"{st[m][0]:.0f}+-{st[m][1]:.0f}" if st[m][0] >= 100 else f"{st[m][0]:.1f}+-{st[m][1]:.1f}"
+                s = (f"{st[m][0]:.0f}+-{st[m][1]:.0f}" if st[m][0] >= 100 and ds != "openbandit"
+                     else f"{st[m][0]:.1f}+-{st[m][1]:.1f}")
                 if m == best:
                     s = "_" + s
                 if m in SPSC and st[m][0] < st[best][0]:
@@ -130,9 +130,9 @@ def refresh():
         vals.setdefault((bench, method), []).append(v)
     print("\nTable 19: costed regret, mean +- SE over seeds")
     for bench in dict.fromkeys(b for b, _ in vals):
-        lin = mean_se(vals[(bench, "LinUCB")], ddof=1)
-        runs = mean_se(vals[(bench, "runs (every probe, standard radius)")], ddof=1)
-        dbl = mean_se(vals[(bench, "runs with the 1, 2, 4, ... refresh")], ddof=1)
+        lin = mean_se(vals[(bench, "LinUCB")])
+        runs = mean_se(vals[(bench, "runs (every probe, standard radius)")])
+        dbl = mean_se(vals[(bench, "runs with the 1, 2, 4, ... refresh")])
         print(f"{bench:24s} LinUCB {lin[0]:7.0f}+-{lin[1]:<4.0f} runs {runs[0]:7.0f}+-{runs[1]:<4.0f} "
               f"refresh 1,2,4,... {dbl[0]:7.0f}+-{dbl[1]:<4.0f} ({100 * (dbl[0] / runs[0] - 1):+.1f}%)")
 

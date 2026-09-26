@@ -1,14 +1,14 @@
 """
-Algorithm 1 as written (spsc_exact.SPSC) against the code behind the benchmark runs (SPSC_Algorithm1).
+Table 19 of the paper, and checks of Algorithm 1 against the code behind the benchmark runs.
 
 Part 1 checks the code:
   1. the lifted sample is unbiased,
-  2. the basis refreshes after the 1st, 2nd, 4th, ... probe of every segment,
+  2. the refresh variant recomputes the basis after the 1st, 2nd, 4th, ... probe of every segment,
   3. with r = d the projected index is ambient ridge-UCB, as it must be by rotation invariance,
-  4. Algorithm 1 with the two settings of App. E (a new basis after every probe, the standard ridge
-     radius with no eps_bar term) reproduces SPSC_Algorithm1 exactly on three benchmarks.
-Part 2 measures each setting on the same three benchmarks, with the paper's settings and seeds, next to
-LinUCB and ridge-UCB in a random r-dimensional subspace with no probes (Table 19 of the paper reports LinUCB, the runs and the 1, 2, 4, ... refresh).
+  4. Algorithm 1 (spsc_exact.SPSC) with the ridge radius of the runs (App. E) reproduces SPSC_Algorithm1
+     exactly on the three benchmarks.
+Part 2 runs LinUCB, the runs (a new basis after every probe) and the variant that recomputes the basis only after
+the 1st, 2nd, 4th, ... probe, on the three benchmarks of Table 19 with the paper's settings and seeds.
 
 Usage:  python3 experiment_alg1_settings.py [--seeds 10] [--workers 8]
 Output: results/experiment_alg1_settings.json
@@ -30,8 +30,7 @@ BENCHMARKS = {
     "synthetic d=100 r=10": dict(env="synthetic", d=100, r=10, pe=50, W=400, lam=0.01, c=0.1),
     "pendigits d=105 r=10": dict(env="pendigits", d=105, r=10, pe=10, W=400, lam=0.01, c=0.02),
 }
-METHODS = ["LinUCB", "runs (every probe, standard radius)", "runs with the 1, 2, 4, ... refresh",
-           "Algorithm 1 as written", "random r-dim subspace, no probes"]
+METHODS = ["LinUCB", "runs (every probe, standard radius)", "runs with the 1, 2, 4, ... refresh"]
 
 
 def make_env(b, seed):
@@ -49,30 +48,31 @@ def make_env(b, seed):
 
 def run_one(job):
     bname, method, seed = job
-    from algorithm import LinUCB, SPSC_Algorithm1, RandomSubspaceUCB
-    from spsc_exact import SPSC, lam_min_of, periodic_probe_rounds
+    from algorithm import LinUCB, SPSC_Algorithm1
+    from spsc_exact import SPSC, periodic_probe_rounds
     b = BENCHMARKS[bname]
     env = make_env(b, seed)
     if method == "LinUCB":
-        m = LinUCB(env, lam=b["lam"], delta=0.05, seed=seed).run()
-    elif method == "random r-dim subspace, no probes":
-        m = RandomSubspaceUCB(env, window=b["W"], lam=b["lam"], delta=0.05, seed=seed).run()
+        # LinUCB seeds of the tables these benchmarks come from: seed on the synthetic grid, seed + 1000 on real data
+        m = LinUCB(env, lam=b["lam"], delta=0.05, seed=seed if b["env"] == "synthetic" else seed + 1000).run()
     elif method.startswith("runs"):
         m = SPSC_Algorithm1(env, probe_every=b["pe"], probe_cost=b["c"], window=b["W"], lam=b["lam"],
                             delta=0.05, seed=seed, normalize_gamma_by_d=True,
                             lazy_updates=method.startswith("runs with")).run()
+    elif method == "check":
+        # Algorithm 1 with the radius of the runs; theta is fixed within every segment of these benchmarks,
+        # so S_delta = 0, and the runs center at sigma^2
+        m = SPSC(env, periodic_probe_rounds(env, b["pe"]), r=b["r"], W=b["W"], lam=b["lam"], probe_cost=b["c"],
+                 delta=0.05, seed=seed, sigma2_hat=env.sigma_eps ** 2, S_delta=0.0, refresh="every",
+                 radius="runs").run()
     else:
-        settings = dict(refresh="every", radius="runs") if method == "check" else {}
-        # theta is fixed within every segment of these benchmarks, so S_delta = 0; the runs center at sigma^2
-        m = SPSC(env, periodic_probe_rounds(env, b["pe"]), r=b["r"], W=b["W"], lam=b["lam"],
-                 lam_min=lam_min_of(env), probe_cost=b["c"], delta=0.05, seed=seed,
-                 sigma2_hat=env.sigma_eps ** 2, S_delta=0.0, **settings).run()
+        raise ValueError(method)
     return bname, method, seed, m.cumulative_costed_regret
 
 
 def check_code(workers):
     from environments import LowRankLDSEnvironment
-    from spsc_exact import K_inv, SPSC, lam_min_of, periodic_probe_rounds
+    from spsc_exact import K_inv, SPSC, periodic_probe_rounds
     rng = np.random.default_rng(0)
     ok = True
 
@@ -93,7 +93,7 @@ def check_code(workers):
     env = LowRankLDSEnvironment(d=20, r=3, K=4, T=2000, sigma_eps=0.3, n_actions=40, seed=1,
                                 sigma_eta=0.04, piecewise_constant=True)
     probes = periodic_probe_rounds(env, 7)
-    alg = SPSC(env, probes, r=3, W=400, lam=1.0, lam_min=lam_min_of(env), probe_cost=0.1, seed=0)
+    alg = SPSC(env, probes, r=3, W=400, lam=1.0, probe_cost=0.1, seed=0, refresh="doubling")
     m = alg.run()
     for start, length in zip(env.tau, env.segment_lengths):
         m_k = int(probes[start:start + length].sum())
@@ -116,8 +116,7 @@ def check_code(workers):
     for seed in (0, 1):
         env = Scaled(seed=seed, **kw)
         probes = periodic_probe_rounds(env, 11)
-        alg = SPSC(env, probes, r=8, W=150, lam=1.0, lam_min=lam_min_of(env), probe_cost=0.1, seed=seed,
-                   radius="runs")
+        alg = SPSC(env, probes, r=8, W=150, lam=1.0, probe_cost=0.1, seed=seed, radius="runs")
         m_alg = alg.run()
         env2 = Scaled(seed=seed, **kw)
         rng2 = np.random.default_rng(seed)
@@ -136,7 +135,7 @@ def check_code(workers):
                 X = np.array([x_s for _, x_s, _ in win]).reshape(-1, 8)
                 V = np.eye(8) + X.T @ X
                 th = np.linalg.solve(V, X.T @ np.array([y_s for _, _, y_s in win]))
-                beta = alg._radius(len(win), 0)
+                beta = alg._radius(len(win))
                 width = np.sqrt(np.einsum("ij,ij->i", A, np.linalg.solve(V, A.T).T))
                 x = A[int(np.argmax(A @ th + beta * width))]
                 win.append((t, x, env2.step(x, t)))
@@ -145,7 +144,7 @@ def check_code(workers):
         print(f"   seed {seed}: max |cumulative regret diff| = {diff:.1e}")
         ok &= diff < 1e-6
 
-    print("== 4. Algorithm 1 with the two settings of App. E reproduces SPSC_Algorithm1")
+    print("== 4. Algorithm 1 with the radius of the runs (App. E) reproduces SPSC_Algorithm1")
     jobs = [(bn, mt, 0) for bn in BENCHMARKS for mt in ("check", "runs (every probe, standard radius)")]
     with ProcessPoolExecutor(max_workers=workers) as ex:
         out = {(bn, mt): c for bn, mt, _, c in ex.map(run_one, jobs)}

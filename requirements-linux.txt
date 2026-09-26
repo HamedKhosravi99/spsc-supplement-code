@@ -1,0 +1,5 @@
+# Versions for Pendigits, Satimage, MNIST and Fashion-MNIST (Python 3.11 on Linux), see the README
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+pandas==3.0.6

@@ -25,9 +25,16 @@ plug in unchanged.
 """
 
 import os
+import zlib
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+
+def _bucket(j, v, buckets):
+    """Bucket of a categorical value.  crc32 gives the same bucket in every process and on every machine,
+    unlike Python's hash(), which is salted per process."""
+    return zlib.crc32(f"{j}|{v}".encode()) % buckets
+
 
 # We don't use obp's OpenBanditDataset loader (it depends on a pandas
 # API removed in pandas>=2.0).  We just need the bundled CSV data files,
@@ -116,7 +123,7 @@ class OpenBanditEnvironment:
                                 dtype=np.float32)
         for j, col in enumerate(user_cat_cols):
             for i, v in enumerate(log_df[col].to_numpy()):
-                bucket = hash((j, str(v))) % BUCKETS
+                bucket = _bucket(j, v, BUCKETS)
                 user_cat_mat[i, j * BUCKETS + bucket] = 1.0
         contexts = np.hstack([
             user_cat_mat,
@@ -134,7 +141,7 @@ class OpenBanditEnvironment:
             iid = int(row["item_id"])
             action_context[iid, 0] = float(row["item_feature_0"])
             for j, col in enumerate(item_cat_cols):
-                bucket = hash((j, str(row[col]))) % BUCKETS
+                bucket = _bucket(j, row[col], BUCKETS)
                 action_context[iid, 1 + j * BUCKETS + bucket] = 1.0
 
         # Per-round feature = user context concatenated with arm embedding

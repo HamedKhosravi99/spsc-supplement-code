@@ -1,10 +1,9 @@
 """
-Sensing control and compression control on every benchmark cell of the paper.
+Probe-fed baselines on every benchmark cell of the paper (Table 20).
 
 Probe-LinUCB is LinUCB given exactly the probes of Algorithm 1 (same rounds, same u_t, same y_t, same
 cost), used as ordinary regression data in the ambient space.  Probe-SW-LinUCB (no reset) is the same
-control for SPSC-Adaptive.  RandomSubspace is windowed ridge UCB in a fixed random r-dimensional
-subspace, with no probes.  The synthetic grid also reruns LinUCB, SPSC-Alg1 and SPSC-Adaptive so that its
+control for SPSC-Adaptive.  The synthetic grid also reruns LinUCB, SPSC-Alg1 and SPSC-Adaptive so that its
 table is self-contained; on the real-data cells those rows come from the existing result files.
 
 Usage:  python3 experiment_sensing_control.py [--workers 8] [--datasets grid covertype ...] [--seeds 10]
@@ -36,7 +35,7 @@ CELLS = {
 # probe period, fee, window, ridge parameter, as in the scripts that produced the paper's tables
 SETTINGS = {"grid": (50, 0.1, 400, 0.01)}
 DEFAULT = (10, 0.02, 400, 0.01)
-CONTROLS = ["Probe-LinUCB", "Probe-SW-LinUCB-noreset", "RandomSubspace"]
+CONTROLS = ["Probe-LinUCB", "Probe-SW-LinUCB-noreset"]
 GRID_EXTRA = ["LinUCB", "SPSC-Alg1", "SPSC-Adaptive"]
 
 
@@ -55,7 +54,7 @@ def make_env(ds, d, r, seed):
 
 def run_one(job):
     ds, d, r, name, seed = job
-    from algorithm import SPSC_Algorithm1, SPSC_Adaptive, LinUCB, RandomSubspaceUCB
+    from algorithm import SPSC_Algorithm1, SPSC_Adaptive, LinUCB
     from probe_baselines import ProbeLinUCB
     pe, c, W, lam = SETTINGS.get(ds, DEFAULT)
     env = make_env(ds, d, r, seed)
@@ -65,8 +64,6 @@ def run_one(job):
     elif name == "Probe-SW-LinUCB-noreset":
         m = ProbeLinUCB(env, probe_every=pe, probe_cost=c, window=W, lam=lam, delta=0.05, seed=seed,
                         reset_at_boundaries=False).run()
-    elif name == "RandomSubspace":
-        m = RandomSubspaceUCB(env, window=W, lam=lam, delta=0.05, seed=seed).run()
     elif name == "LinUCB":
         m = LinUCB(env, lam=lam, delta=0.05, seed=seed + 1000).run()
     elif name == "SPSC-Alg1":
